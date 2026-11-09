@@ -3,6 +3,7 @@
 A hamster-themed gem mining game on Ethereum Sepolia. Deploy hamsters, mine and refine gems, swap them for HGEM tokens, stake HGEM for yield and a mining boost, and climb the leaderboard.
 
 Built with [Arc Studio](https://studio.arc.io)
+https://squeek-hamster-mining.netlify.app/
 
 ## What you can do
 
