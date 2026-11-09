@@ -1,0 +1,15 @@
+node_modules
+dist
+.env
+.env.*
+!.env.example
+.circle
+recovery_file*
+data/
+*.db
+*.db-wal
+*.db-shm
+contracts/out
+contracts/cache
+cache
+out
